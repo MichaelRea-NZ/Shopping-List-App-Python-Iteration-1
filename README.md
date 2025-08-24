@@ -22,7 +22,7 @@ Framework: Tkinter (standard Python GUI library)
 
 Demo Video
 
-📺 YouTube Walkthrough: Watch here https://youtu.be/GRXL019gxRk
+YouTube Walkthrough: Watch here https://youtu.be/GRXL019gxRk
 
 Part of a Multi-Language Series
 
