@@ -1,4 +1,4 @@
-Shopping List App – Python (Tkinter Edition)
+Shopping List App – Python (Iteration 1)
 
 A desktop Graphical User Interface (GUI) application built with Python’s Tkinter library, allowing users to create and manage shopping lists in a simple and interactive way.
 
